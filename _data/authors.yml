@@ -9,13 +9,13 @@ author1:
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
     My name is Paul McDonnell, and I am a Computer Science student at the University of Maryland.
-    This page is my final project for my Intro to Data Science class and serves as a tutorial of
+    This site is my final project for my Intro to Data Science class and serves as a tutorial of
     the data science pipeline. While you're learning data science you'll also find insight on how
     to rank up in the popular esport Rocket League.
 
   # This photo will be used in the about section
   picture:
-    path:              ../assets/img/logo.png
+    path:              /assets/img/logo.png
     # srcset is optional, but can be used to provide higher res versions for retina displays
     # srcset:
     #   1x:            https://via.placeholder.com/128x128
@@ -64,18 +64,3 @@ author1:
     # paypal:          <username>
     # download:        <url>
     # keybase          <username>
-
-# Another author (optional)
-#author2:
-#  name:              <firtname> <lastname>
-#  email:             <mail@domain.tld>
-#  about:             |
-#    Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-#    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-#    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-#
-#    Open `_data/authors.yml` to edit this text.
-#
-#  picture:           https://placehold.it/128x128
-#  twitter:           <username>
-#  github:            <username>

@@ -36,6 +36,13 @@ While this manual tries to be beginner-friendly, as a user of Jekyll it is assum
 * [CHANGELOG]{:.heading.flip-title} --- Version history of Hydejack.
 {:.related-posts.faded}
 
+## Example Posts (moved, links may not work and stuff won't look right because they are set to post not page (probably lol))
+* [POST1]{:.heading.flip-title} --- The first post.
+* [POST2]{:.heading.flip-title} --- The second post.
+* [POST3]{:.heading.flip-title} --- The third post.
+* [INTRO]{:.heading.flip-title} --- The intro post.
+{:.related-posts.faded}
+
 [install]: install.md
 [upgrade]: upgrade.md
 [config]: config.md
@@ -47,3 +54,7 @@ While this manual tries to be beginner-friendly, as a user of Jekyll it is assum
 [LICENSE]: ../LICENSE.md
 [NOTICE]: ../NOTICE.md
 [CHANGELOG]: ../CHANGELOG.md
+[POST1]: 2012-02-07-example-content.md
+[POST2]: 2017-11-23-example-content-ii.md
+[POST3]: 2018-06-01-example-content-iii.md
+[INTRO]: 2020-07-03-introducing-hydejack-9.md

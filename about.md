@@ -8,16 +8,12 @@ layout: about
 
 # Sources
 
-## Source 1
-
-lorem ipsum dolor sit amet, consectetur adipiscing
-
-## Source 2
-
-lorem ipsum dolor sit amet, consectetur adipiscing
-
 ## Hydejack
 
-This website was built using Hydejack, which is an open source Jekyll theme. Check it out [here].
+This website was built using Hydejack, which is an open source Jekyll theme. Check out the [Hydejack][00] site.
+Hydejack is distributed under the [GNU General Public License][01].
+Parts of the program are provided under [separate licenses][02].
 
-[here]: https://hydejack.com/
+[00]: https://hydejack.com/
+[01]: licenses/GPL-3.0.md
+[02]: NOTICE.md
