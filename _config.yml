@@ -80,8 +80,8 @@ paginate_path:         /:num/
 # Theme
 # ---------------------------------------------------------------------------------------
 
-# theme: jekyll-theme-hydejack
-remote_theme: hydecorp/hydejack@v9
+theme: jekyll-theme-hydejack
+# remote_theme: hydecorp/hydejack@v9
 
 
 # Customizaton
@@ -313,6 +313,8 @@ exclude:
   - vendor
   - Gemfile
   - Gemfile.lock
+  - 320_FP/
+  - '*.env'
 include:
   - .well-known
   - LICENSE.md
