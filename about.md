@@ -86,6 +86,22 @@ Smithies, T.D., Campbell, M.J., Ramsbottom, N. et al. A Random Forest approach t
 that best predict match outcome and player ranking in the esport Rocket League. Sci Rep 11, 19285
 (2021). https://doi.org/10.1038/s41598-021-98879-9
 
+## The Ballchasing Replay Repository
+
+[ballchasing.com][BC00] allows players on PC platforms like Steam or Epic Games to upload their
+replay files and compile statistics on both individual and groups of replays. Currently, over 50
+million total replays have been uploaded to the site by players of all ranks. Public replays and
+their associated statistics can be searched through and downloaded manually or via the website's
+API (see the [documentation][BC01]). In order to download data from their API, you must first sign
+in using a [Steam][BC02] account, then [generate an API key][BC03]. The API is well-documented, so
+check it out if you are interested in using it in ways not mentioned in this project.
+
+## The carball Python Library by Saltie
+
+See the [Data Collection][CB00] step of the pipeline to see what the carball library can do in
+relation to this project. Check out [Saltie][CB01], the team behind it, on GitHub. If you wish to
+use carball yourself, visit its [GitHub repository][CB02] or download it with `pip install carball`
+
 ## Hydejack
 
 This website was built using [Hydejack][HJ00], which is an open source Jekyll theme.
@@ -97,6 +113,15 @@ Parts of the program are provided under [separate licenses][HJ02].
 [RL02]: https://images.squarespace-cdn.com/content/v1/59af2189c534a58c97bd63b3/bbd07e16-17df-40d7-a9fe-2cbd50f823ea/Rocket+League+rank+distribution+Season+5.jpg
 
 [PW00]: https://doi.org/10.1038/s41598-021-98879-9
+
+[BC00]: https://ballchasing.com/
+[BC01]: https://ballchasing.com/doc/api
+[BC02]: https://store.steampowered.com/
+[BC03]: https://ballchasing.com/upload
+
+[CB00]: /320_FP/pages/data_collection/
+[CB01]: https://github.com/SaltieRL
+[CB02]: https://github.com/SaltieRL/carball
 
 [HJ00]: https://hydejack.com/
 [HJ01]: licenses/GPL-3.0.md
