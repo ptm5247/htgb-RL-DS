@@ -22,7 +22,7 @@ for i in range(8):
     a_path = f'./data/analyses/{fold}/{file}'
     r_path = f'./data/replays/{fold}/{file}'
 
-    if not os.path.exists(a_path):
+    if not os.path.exists(a_path) and os.path.exists(r_path):
       analysis = carball.analyze_replay_file(r_path)
       with open(a_path, 'w+') as f:
         json.dump(analysis.get_json_data(), f)
