@@ -29,7 +29,7 @@ description:           >
   you've ever seen (hopefully).
 
 # A shorter description for the sidebar.
-tagline:               How to Get Better at Rocket League (and Data Science)
+tagline:               'How to Get Better at Rocket League\n(and Data Science)\nBy: Paul McDonnell'
 
 # A list of keywords for your blog
 keywords:              []
@@ -80,8 +80,8 @@ paginate_path:         /:num/
 # Theme
 # ---------------------------------------------------------------------------------------
 
-theme: jekyll-theme-hydejack
-# remote_theme: hydecorp/hydejack@v9
+# theme: jekyll-theme-hydejack
+remote_theme: hydecorp/hydejack@v9
 
 
 # Customizaton
