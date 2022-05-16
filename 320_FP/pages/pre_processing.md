@@ -105,7 +105,7 @@ not in the format we are expecting.
 ### Selecting the Desired Metrics
 
 ```python
-# file: pre_processing.py"
+# file: "pre_processing.py"
 def prepare_metrics(data: pd.DataFrame):
   # calculate new metrics to replace some of the existing ones
   data.loc['amount_collected'] = data.loc['count_collected_big'] * 100 + data.loc['count_collected_small'] * 12

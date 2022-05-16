@@ -23,4 +23,10 @@ below, which are organized by the pipeline steps in which the file contents appe
 
 [display_lib.py](display_lib.py)
 
+## Bias & Missing Data
+
+[bias_and_missing.ipynb](bias_and_missing.ipynb)
+
+[display_lib.py](display_lib.py)
+
 [00]: pages/motivation/

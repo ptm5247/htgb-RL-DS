@@ -57,6 +57,8 @@ menu:
     url:               /320_FP/pages/pre_processing/
   - title:             Bias & Missing Data
     url:               /320_FP/pages/bias_and_missing/
+  - title:             Exploratory Data Analysis
+    url:               /320_FP/pages/exploratory_data_analysis/
   - title:             About & Sources
     url:               /about/
 
