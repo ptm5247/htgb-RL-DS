@@ -196,7 +196,7 @@ an hour has passed before moving onto the next replay.
 I terminated this program after a total of about 20,000 replays were downloaded, as I felt like
 that was a large enough sample size to perform my analysis. At this point, there is a sub-folder in
 the `summaries` folder for each rank containing the statistics for thousands of matches, each
-stored in a JSON file. Now, we are ready to move onto the next step: Pre-Processing.
+stored in a JSON file. Now, we are ready to move on to the next step: Pre-Processing.
 
 Continue with [Pre-Processing](pre_processing.md){:.heading.flip-title}
 {:.read-more}

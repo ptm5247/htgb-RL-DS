@@ -55,6 +55,8 @@ menu:
     url:               /320_FP/pages/data_collection/
   - title:             Pre-Processing
     url:               /320_FP/pages/pre_processing/
+  - title:             Bias & Missing Data
+    url:               /320_FP/pages/bias_and_missing/
   - title:             About & Sources
     url:               /about/
 

@@ -17,4 +17,10 @@ below, which are organized by the pipeline steps in which the file contents appe
 
 [data_collection.py](data_collection.py)
 
+## Pre-Processing
+
+[pre-processing.py](pre-processing.py)
+
+[display_lib.py](display_lib.py)
+
 [00]: pages/motivation/
