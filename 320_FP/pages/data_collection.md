@@ -119,7 +119,6 @@ examining replays from Season 5, so I initialized the list with a date at the en
 
 ```python
 # file: "data_collection.py"
-# verify connection
 ping = requests.get(
   url=base_url,
   headers=headers

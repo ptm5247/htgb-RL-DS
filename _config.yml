@@ -59,6 +59,10 @@ menu:
     url:               /320_FP/pages/bias_and_missing/
   - title:             Exploratory Data Analysis
     url:               /320_FP/pages/exploratory_data_analysis/
+  - title:             Hypothesis Testing
+    url:               /320_FP/pages/hypothesis_testing/
+  - title:             Results
+    url:               /320_FP/pages/results/
   - title:             About & Sources
     url:               /about/
 
@@ -320,6 +324,7 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - 320_FP/summaries/
+  - 320_FP/__pycache__/
   - '*.env'
 include:
   - .well-known

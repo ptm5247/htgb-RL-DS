@@ -51,6 +51,7 @@ _zip
 /dist
 /build
 320_FP/summaries
+320_FP/__pycache__
 
 /assets/js/*hydejack-*
 /_sass/*/__*__/*

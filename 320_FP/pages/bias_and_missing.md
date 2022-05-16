@@ -73,7 +73,6 @@ the imports will be used in the next section of this page, which is about bias.
 
 ```python
 # file: "bias_and_missing.ipynb"
-# aggregate the data under the chosen metrics
 data = aggregate()
 
 # count the number of explicitly missing values
@@ -134,7 +133,6 @@ minimize the adverse effects they may have on the dataset, they were removed. Th
 
 ```python
 # file: "bias_and_missing.ipynb"
-# find the number of downloaded summaries for each rank
 tot = dict((r.split('\\')[-1], len(f)) for r, _, f in os.walk('summaries'))
 dup, dur, rem = {}, {}, {}
 
@@ -175,7 +173,6 @@ an HTML table using a method in [`display_lib.py`][03]. To see how this method w
 
 ```python
 # file: "bias_and_missing.ipynb"
-# save the updated data table
 data.to_pickle('summaries\\data_frame')
 ```
 

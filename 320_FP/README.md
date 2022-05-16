@@ -19,13 +19,25 @@ below, which are organized by the pipeline steps in which the file contents appe
 
 ## Pre-Processing
 
-[pre-processing.py](pre-processing.py)
+[pre-processing.py](pre_processing.py)
 
 [display_lib.py](display_lib.py)
 
 ## Bias & Missing Data
 
 [bias_and_missing.ipynb](bias_and_missing.ipynb)
+
+[display_lib.py](display_lib.py)
+
+## Exploratory Data Analysis
+
+[exploratory_data_analysis.ipynb](exploratory_data_analysis.ipynb)
+
+[display_lib.py](display_lib.py)
+
+## Hypothesis Testing
+
+[hypothesis_testing.ipynb](hypothesis_testing.ipynb)
 
 [display_lib.py](display_lib.py)
 
