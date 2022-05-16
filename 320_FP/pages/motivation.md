@@ -30,10 +30,10 @@ aspects of gameplay that are most strongly correlated with good performance. By 
 that exist at all skill levels, I hope to be able to provide some sort of insight to players of any
 rank about what to keep in mind during both gameplay and training.
 
-If you are unfamiliar with Rocket League, check out the [About] section for a quick description.
+If you're unfamiliar with Rocket League, check out the [About][00] section for a quick description.
 {:.note}
 
 Continue with [Data Collection](data_collection.md){:.heading.flip-title}
 {:.read-more}
 
-[About]: /about/#rocket-league
+[00]: /about/#rocket-league

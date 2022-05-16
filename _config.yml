@@ -53,6 +53,8 @@ menu:
     url:               /320_FP/pages/motivation/
   - title:             Data Collection
     url:               /320_FP/pages/data_collection/
+  - title:             Pre-Processing
+    url:               /320_FP/pages/pre_processing/
   - title:             About & Sources
     url:               /about/
 
@@ -313,7 +315,7 @@ exclude:
   - vendor
   - Gemfile
   - Gemfile.lock
-  - 320_FP/data/
+  - 320_FP/summaries/
   - '*.env'
 include:
   - .well-known
